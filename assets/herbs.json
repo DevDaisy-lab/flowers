@@ -1,0 +1,104 @@
+{
+  "herbs": [
+    {
+      "name": "Basil",
+      "id": 1,
+      "culture": "Basil is easily grown from seed or from tip cuttings of overwintered plants.  Because basil is sensitive to cold temperatures, seeds germinate and grow best when the media temperature is at least 70 degrees.  Seeds will germinate in about 5-7 days.",
+      "description": "Perhaps the most popular and widely used culinary herb. It is a tender annual, aromatic plant with a spicy odor and flavor.  It grows 12-18 inches tall and foliage color can range from green to purple.",
+      "varieties": ["Napoletano", "Medinette", "Romanesco"],
+      "harvesting": "Limited harvesting of the leaves can start on young plants and as they get larger, individual leaves as well as tips of the plants can be harvested.",
+      "use": "Basil picked for use in the kitchen is best held in a glass of water at room temperature.  Putting basil in the refrigerator results in discolored and unattractive leaves.  Basil is easily dried for storing and future use.  It is used to flavor soups, stews, tomato dishes, meat, game, fish, egg dishes, herb butters and herb vinegars.",
+      "image_url": "https://firebasestorage.googleapis.com/v0/b/herbs-d02ea.appspot.com/o/herb_1_main.jpg?alt=media&token=74d2ea47-bd97-4a23-8f72-fc4b74817185"
+    },
+    {
+      "name": "Rosemary",
+      "id": 2,
+      "culture": "While rosemary can be grown from seed, it is best propagated from stem cuttings.  Cuttings root easily and grow into suitable plants quickly.  Seed germinates very slowly and the resulting plants may take years to become useable plants.",
+      "description": "Rosemary is a perennial evergreen shrub in warmer growing zones (zone 8 and above).  Plants can grow to 4-6 feet tall with some varieties having a trailing or cascading habit.  Foliage is dark green and needle-like much like a spruce or fir.",
+      "varieties": ["Arp", "Gorizia", "Blue Rain", "Pine Rosemary", "Tuscan Blue"],
+      "harvesting": "The tender tips and foliage can be cut as needed throughout the growing season.  Occasionally, longer, woody stems can be harvested and used as skewers for kabobs.  Leaves may also be dried and stored for later use.",
+      "use": "Use rosemary sparingly as an accent to food as the flavor can be somewhat pungent and resinous. Use with fish, pork, lamb, poultry and game.",
+      "image_url": "https://firebasestorage.googleapis.com/v0/b/herbs-d02ea.appspot.com/o/herb_2_main.jpg?alt=media&token=bc83eec5-3cf7-4aa0-957c-39182caee482"
+    },
+    {
+      "name": "Mint",
+      "id": 3,
+      "culture": "Mints are extremely hardy perennials. They prefer a full sun location but will tolerate light shade.  Mint is propagated by either stem or root cuttings.  Because mints have a prolific growth habit, they will become invasive in the garden.",
+      "description": "While there are many types of mint that can be grown in the garden, each with its own particular flavor, peppermint (Mentha x piperita) and spearmint (Mentha spicata) are the most common.",
+      "varieties": [],
+      "harvesting": "Leaves can be harvested as needed but the more frequently the stems are cut the more new growth is produced. It is the new growth that has the most flavorful leaves.  Leaves that are to be dried are best taken just as the flowers begin to appear.",
+      "use": "Mint is often used with veal, lamb and pork dishes as well as beverages and jellies.",
+      "image_url": "https://firebasestorage.googleapis.com/v0/b/herbs-d02ea.appspot.com/o/herb_3_main.jpg?alt=media&token=b72de22f-8184-4bf4-aa31-e944daff2eda"
+    },
+    {
+      "name": "Chervil",
+      "id": 4,
+      "culture": "Chervil is grown from seed sown in the spring or in late fall.  Fall sown seed will germinate the following spring.  Direct sowing of seed is suggested as chervil seedlings are difficult to transplant successfully.  When sowing seed, cover seed very lightly or not at all as light is needed for good germination.",
+      "description": "Chervil is an annual that grows to about 2 feet tall. It has light green leaves that resemble finely cut parsley.  White flowers are produced on flat heads.",
+      "varieties": ["Crispum", "Vertissimo", "Plain Chervil"],
+      "harvesting": "Both the leaves and stems are used in cooking.  Harvest leaves when they are fully open but still tender.  Air dry and store leaves in sealed containers for later use.",
+      "use": "Leaves are used much the same way parsley is used in soups, salads, sauces and cheese and egg dishes.  It is also used as a garnish.",
+      "image_url": "https://firebasestorage.googleapis.com/v0/b/herbs-d02ea.appspot.com/o/herb_4_main.jpg?alt=media&token=77dcf5e5-c562-429d-bc9e-61a9c11a2224"
+    },
+    {
+      "name": "Caraway",
+      "id": 5,
+      "culture": "Caraway is grown from seed and prefers a full sun location in well-drained soil with a high percentage of organic matter.  Caraway is best directly sown in the garden as it is difficult to transplant successfully.  Keep seed bed moist as seed is slow to germinate.",
+      "description": "Caraway is most often grown for its seeds, but the root and leaves are also edible.  Caraway is a biennial plant that produces seeds the second season after planting.  The first season it forms a rosette of leaves 8-10 inches tall that resembles a carrot with a long tap root. ",
+      "varieties": [],
+      "harvesting": "All parts of the plant can be harvested for culinary use.  Roots can be dug when plants are young.  Fresh leaves can be harvested as needed and seeds can be harvested and dried after the seed heads turn from a green to brown.",
+      "use": "Roots of caraway can be boiled and used like parsnips or carrot.  Fresh leaves can be harvested as needed and used in salads, soups, and stews or eaten like spinach.  Seeds are used in baking, slaws, cheese, and potato dishes. Caraway offers a licorice flavor.",
+      "image_url": "https://firebasestorage.googleapis.com/v0/b/herbs-d02ea.appspot.com/o/herb_5_main.jpg?alt=media&token=6d69397b-c164-430c-809c-449d841165b1"
+    },
+    {
+      "name": "Chives",
+      "id": 6,
+      "culture": "Chives prefer a full sun location and are tolerant of a wide variety of soils but will grow best in soils that are high in organic matter.  Chives are most commonly propagated by dividing the clumps in early spring.  Clumps should contain about 4-6 bulbs.  They can also be grown from seed sown in spring.",
+      "description": "Chives belong to the same family as onion, leeks and garlic.  They are a hardy, drought-tolerant perennial growing to about 10-12 inches tall. They grow in clumps from underground bulbs and produce round, hollow leaves that are much finer than onion.",
+      "varieties": ["Grolau Chives", "Nelly Chives", "Profusion Chives", "Staro Chives"],
+      "harvesting": "Harvest chives throughout the season to prevent the leaves from becoming tough and to encourage formation of new bulblets.  Cut leaves toward the base about one inch above the soil. Flowers can also be harvested for use as an edible garnish.",
+      "use": "Leaves can be used to flavor salads, dips, soups, stews, vinegars, cheese dishes sour cream and butter.  Flavor is much milder and more subtle than other members of the onion family.",
+      "image_url": "https://firebasestorage.googleapis.com/v0/b/herbs-d02ea.appspot.com/o/herb_6_main.jpg?alt=media&token=b56ba451-0755-4671-994b-ae04d4e371a2"
+    },
+    {
+      "name": "Lovage",
+      "id": 7,
+      "culture": "Lovage is grown from either division or seed planted in the spring or fall.  It likes a fairly rich, moist soil and light shade improves its quality.  Lovage is useful as a background plant in the perennial border.",
+      "description": "Lovage is a large, vigorous hardy perennial growing 4-6 feet tall.  Dark green leaves resemble those of celery. Large, flat-topped yellow flower heads are produced in summer.  The flavor of lovage is much like celery only stronger and sweeter.",
+      "varieties": [],
+      "harvesting": "Leaves and stems can be used fresh anytime they are needed.  Harvest young leaves as they are more tender.  Seed heads can be picked when they start to turn brown. Put seed heads in paper bags to dry and then roll the seeds between your hands to clear them from the stems.",
+      "use": "Leaves and stems are used to flavor soups, salads, gravy, meat, and chicken dishes.  The stems can also be candied or blanched and eaten as a vegetable.  Because the stems are hollow, they make handy straws for sipping beverages such as tomato juice. Leaves are also used in teas.",
+      "image_url": "https://firebasestorage.googleapis.com/v0/b/herbs-d02ea.appspot.com/o/herb_7_main.jpg?alt=media&token=7b7e9391-7dec-42bd-8c1c-94342b901449"
+    },
+    {
+      "name": "Lemon Balm",
+      "id": 8,
+      "culture": "Lemon balm can be grown in full sun to partial shade in soils that are moist but well drained.  It can be propagated by seeds, division or stem cuttings.  Lemon balm is often confused with mint in regards to how it grows and spreads in the garden.  While mint can spread rapidly by underground stems, lemon balm spreads by setting lots of seed and can, if allowed to go unchecked start to overtake the garden.",
+      "description": "Lemon balm is an upright, bushy, herbaceous perennial.  Leaves are light green, arrowhead shaped, somewhat hairy and coarse textured.  Lemon balm grows to about 10-24 inches tall. Flowers may be white, pale yellow or pink.",
+      "varieties": ["Compacta", "Aurea"],
+      "harvesting": "Stems can be cut as needed anytime during the season preferably before flowering.  While fresh lemon balm is superior to dried, cut stems can be bundled, hung in a warm, dark, well ventilated location to dry.  After drying, strip leaves from stems and store in a sealed container.",
+      "use": "Lemon balm can be used to flavor many different types of dishes.  It can be added to salads, stews, soups, fish, pork and egg dishes.  It is also used in making jellies, teas and vinegars and to compliment fruit.",
+      "image_url": "https://firebasestorage.googleapis.com/v0/b/herbs-d02ea.appspot.com/o/herb_8_main.jpg?alt=media&token=2c05f9b6-4db6-48f7-a58a-28304ce6b25f"
+    },
+    {
+      "name": "Lemon Verbena",
+      "id": 9,
+      "culture": "Because lemon verbena is frost sensitive, it is best grown as a container plant so it can easily be moved indoors during the winter.  Use containers with ample drainage holes and fill the container with a prepared soil mix.  Keep the media uniformly moist but avoid overwatering. Outdoors, place the plant in a full sun location.  Because lemon verbena is a heavy feeder, fertilize using a general purpose liquid fertilizer about every two weeks.",
+      "description": "Lemon verbena is a woody shrub with narrow, glossy green leaves. It also produces small white flowers. It is an attractive plant for container growing. It has a strong lemony fragrance.",
+      "varieties": [],
+      "harvesting": "Harvest leaves as needed throughout the season.  Leaves are used fresh or can be dried and stored in sealed containers for later use.",
+      "use": "Lemon verbena is used to flavor beverages, salads, jellies, sauces, soups, fish and meat dishes.  Its strongly lemon flavored leaves can be used where lemon is called for in recipes.",
+      "image_url": "https://firebasestorage.googleapis.com/v0/b/herbs-d02ea.appspot.com/o/herb_9_main.jpg?alt=media&token=f2550b39-7b11-4bb2-a842-01883556babc"
+    },
+    {
+      "name": "Culinary Sage",
+      "id": 10,
+      "culture": "Sage prefers a full sun location in soils that are well prepared with compost.  For sage to perform as a perennial, it must have very well drained soil especially over the winter.  Sage can be grown from seeds or cuttings. Cuttings are preferred as seeds may take several years to produce harvestable plants.",
+      "description": "Sage is a shrubby, perennial plant that grows to about 2-3 feet tall.  Foliage is gray-green with a pebbly texture.  As it ages, it has a tendency to sprawl.  Spikes of purple flowers appear in mid-summer.",
+      "varieties": ["Berggarten", "Golden Sage", "Purple Sage"],
+      "harvesting": "Leaves can be harvested through the season as needed.  Cut 6-8 inch long stems for drying.  Leaves can then be removed and stored in a sealed container.  Sage can keep for up to two weeks when dry leaves are loosely packed in plastic and stored in the refrigerator.",
+      "use": "Leaves are used in fish, pork and poultry dishes. Also with vegetables and in sausages.",
+      "image_url": "https://firebasestorage.googleapis.com/v0/b/herbs-d02ea.appspot.com/o/herb_10_main.jpg?alt=media&token=4c6da342-2a46-4917-aec3-e2480d0df500"
+    }
+  ]
+}

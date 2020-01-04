@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "467042188461",
+    "firebase_url": "https://flowers-64fa2.firebaseio.com",
+    "project_id": "flowers-64fa2",
+    "storage_bucket": "flowers-64fa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467042188461:android:54a3dd88f88552bac09a24",
+        "android_client_info": {
+          "package_name": "com.example.flowers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467042188461-p7dsfa4e510rtaracvjnvr3lkd0geu98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flowers",
+            "certificate_hash": "f59a29d468d900496708582d45bb1ae1c94f9b37"
+          }
+        },
+        {
+          "client_id": "467042188461-s29fefaeav0n5v5r4ijaf62lv0rpca0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtnXWToyngSza22ucv3tFrkFVSAKsIFHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467042188461-s29fefaeav0n5v5r4ijaf62lv0rpca0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
