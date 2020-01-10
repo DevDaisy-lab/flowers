@@ -8,7 +8,7 @@ This application is created of **a widget tree**, **a flower model**, **services
 
 
 
-https://github.com/Laura555-p/flowers/blob/master/assets/images/flowerwidgettree.PNG
+![](https://github.com/Laura555-p/flowers/blob/master/assets/images/flowerwidgettree.PNG)
 
 
 
