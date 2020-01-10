@@ -4,6 +4,13 @@ This application shows ten flowers with descriptions.
 
 This application is created of **a widget tree**, **a flower model**, **services** and **Firebase**: 
 
+- **A Widget tree:**
+
+
+
+https://github.com/Laura555-p/flowers/blob/master/assets/images/flowerwidgettree.PNG
+
+
 
 ![](https://github.com/Laura555-p/flowers/blob/master/assets/images/1_flower.PNG)
 ![](https://github.com/Laura555-p/flowers/blob/master/assets/images/2_flower.PNG)
