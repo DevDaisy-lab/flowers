@@ -1,4 +1,4 @@
-**The Flowers mobile aplication**
+**The Flowers mobile application**
 
 This application shows ten flowers with descriptions.
 
