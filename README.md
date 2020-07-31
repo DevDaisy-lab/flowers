@@ -2,7 +2,7 @@
 
 This application shows ten flowers with descriptions.
 
-This application is created of **a widget tree**, **a flower model**, **services** and **Firebase**: 
+This application is created of **a widget tree**, **a 'flower' data model**, **services** and **Firebase**: 
 
 - **A Widget tree:**
 
