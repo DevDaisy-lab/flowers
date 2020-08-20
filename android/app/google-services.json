@@ -1,6 +1,6 @@
 {
   "project_info": {
-    "project_number": "467042188461",
+    "project_number": "467042188164",
     "firebase_url": "https://flowers-64fa2.firebaseio.com",
     "project_id": "flowers-64fa2",
     "storage_bucket": "flowers-64fa2.appspot.com"
@@ -8,7 +8,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:467042188461:android:54a3dd88f88552bac09a24",
+        "mobilesdk_app_id": "1:467042188461:android:54a3dd88f88552bac09a25",
         "android_client_info": {
           "package_name": "com.example.flowers"
         }
